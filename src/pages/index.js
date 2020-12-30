@@ -9,12 +9,13 @@ const IndexPage = () => {
     <div class="container">
       <p class="text">
         I'll add stuff in a sec <br />
-        In the meanwhile, <br />
-        check out one of my favorite slam poems: <br />
-        <a
+        <br />
+        In the meanwhile, click here to <br />
+        check out one of my favorite slam poems
+        <a class="link-area"
         href="https://www.youtube.com/watch?v=vnKZ4pdSU-s"
         rel="noopener noreferrer"
-        target="_blank">Here</a>
+        target="_blank"/>
       </p>
       <footer>
         Shoaib Laghari © 2020
