@@ -15,9 +15,20 @@
   justify-content: center;
 }
 
+.text-lower {
+  color: coral;
+  height: 100%;
+  width: 100%;
+  display: flex;
+  position: fixed;
+  margin-top: 110vh;
+  justify-content: center;
+}
+
 footer {
   position: fixed;
   bottom: 0;
+  margin-bottom: 2vh;
   font-size: small;
   width: 100%;
 }
