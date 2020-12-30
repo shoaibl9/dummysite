@@ -12,7 +12,7 @@ const IndexPage = () => {
         <br />
         In the meanwhile, click here to <br />
         check out one of my favorite slam poems
-        <a class="link-area"
+        <a class="text"
         href="https://www.youtube.com/watch?v=vnKZ4pdSU-s"
         rel="noopener noreferrer"
         target="_blank"/>
