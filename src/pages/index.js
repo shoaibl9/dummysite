@@ -7,9 +7,7 @@ import '../styling/index.css'
 
 const IndexPage = () => {
   return (
-    <Container class="container">
-      <title>Shoaib Laghari</title>
-      <meta charset="utf-8" />
+    <div class="container">
       <p class="text">
         I'll add stuff in a sec <br />
         In the meanwhile, <br />
@@ -23,7 +21,7 @@ const IndexPage = () => {
       <footer>
         Shoaib Laghari © 2020
       </footer>
-    </Container>
+    </div>
   )
 }
 
