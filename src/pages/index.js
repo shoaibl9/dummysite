@@ -1,7 +1,6 @@
 import React from 'react'
 
 import 'bootstrap/dist/css/bootstrap.min.css'
-import { Container } from 'react-bootstrap'
 
 import '../styling/index.css'
 
@@ -13,7 +12,6 @@ const IndexPage = () => {
         In the meanwhile, <br />
         check out one of my favorite slam poems: <br />
         <a
-        class="text-lower"
         href="https://www.youtube.com/watch?v=vnKZ4pdSU-s"
         rel="noopener noreferrer"
         target="_blank">Here</a>
