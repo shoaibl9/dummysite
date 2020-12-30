@@ -7,16 +7,20 @@ import '../styling/index.css'
 const IndexPage = () => {
   return (
     <div class="container">
+      <a class="text"
+      href="https://www.youtube.com/watch?v=vnKZ4pdSU-s"
+      rel="noopener noreferrer"
+      target="_blank"/>
       <p class="text">
         I'll add stuff in a sec <br />
         <br />
         In the meanwhile, click here to <br />
         check out one of my favorite slam poems
-        <a class="text"
-        href="https://www.youtube.com/watch?v=vnKZ4pdSU-s"
-        rel="noopener noreferrer"
-        target="_blank"/>
       </p>
+      <a class="text"
+      href="https://www.youtube.com/watch?v=vnKZ4pdSU-s"
+      rel="noopener noreferrer"
+      target="_blank"/>
       <footer>
         Shoaib Laghari © 2020
       </footer>
