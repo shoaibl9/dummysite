@@ -1,0 +1,23 @@
+.container {
+  min-height: 100vh;
+  min-width: 100%;
+  background-image: linear-gradient(black, rgba(204, 68, 74, 1));
+  text-align: center;
+  color: white;
+}
+
+.text {
+  height: 100%;
+  width: 100%;
+  display: flex;
+  position: fixed;
+  align-items: center;
+  justify-content: center;
+}
+
+footer {
+  position: fixed;
+  bottom: 0;
+  font-size: small;
+  width: 100%;
+}
